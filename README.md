@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi predestinied guest 🙏, I'm 🌌Van Thong🌌 in the current life.
 
+### ...code and art. I am on path to be a UI/UX developer. 
+
+---
+
+- 📫 You can find me on [Instagram, ](https://www.instagram.com/thong.leeee/) and [LinkedIn](https://www.linkedin.com/in/vanthong-fe-engineer/)
 <!--
 **ThongKun/ThongKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
