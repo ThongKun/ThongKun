@@ -2,6 +2,8 @@
 
 ### ...code and art. I am on path to be a UI/UX developer. 
 
+<img src="" height=300 />
+
 ---
 
 - 📫 You can find me on [Instagram, ](https://www.instagram.com/thong.leeee/) and [LinkedIn](https://www.linkedin.com/in/vanthong-fe-engineer/)
