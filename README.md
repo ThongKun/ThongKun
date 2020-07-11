@@ -8,7 +8,8 @@
 <br/><br/><br/>
 
 ---
-
+- ☀ My equipments currently are <b>React.js</b>. In next 3 months, they will be including GraphQL, React Native
+- 🎁 From June, I daily practice Data Structures and Algorithms on [Leetcode](https://leetcode.com/thonglevan131/)
 - 📫 You can find me on [Instagram, ](https://www.instagram.com/thong.leeee/)[Facebook, ](https://www.facebook.com/thong.levan.131/) and [LinkedIn](https://www.linkedin.com/in/vanthong-fe-engineer/)
 <!--
 **ThongKun/ThongKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
