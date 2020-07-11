@@ -8,7 +8,7 @@
 <br/><br/><br/>
 
 ---
-- ☀&nbsp;&nbsp;My equipments currently are <b>React.js</b>. In next 3 months, they will be including <b>GraphQL</b> and <b>React Native</b> that get me up as a Full Stack Frontend.
+- ☀&nbsp;&nbsp;My equipments currently are <b>React.js</b>. In next 3 months, there will be <b>Deno</b>, <b>GraphQL</b> and <b>React Native</b> that get me up as a Full Stack Frontend.
 - 🎁&nbsp;&nbsp;From June, I daily practice Data Structures and Algorithms on [Leetcode](https://leetcode.com/thonglevan131/)
 - 📫&nbsp;&nbsp;You can find me on [Instagram, ](https://www.instagram.com/thong.leeee/)[Facebook, ](https://www.facebook.com/thong.levan.131/) and [LinkedIn](https://www.linkedin.com/in/vanthong-fe-engineer/)
 <!--
