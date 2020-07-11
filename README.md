@@ -1,6 +1,6 @@
 ## Hi predestinied guest 🙏, I'm 🌌Van Thong🌌 in the current life.
 
-### ...code and art. I am on path to be a UI/UX developer. 
+### ...code and art. I am on path to be a UI/UX engineer. 
 <br/><br/><br/>
 
 <img src="https://github.com/ThongKun/ThongKun/blob/master/Magic_Flute.jpg" height=300 />
