@@ -3,9 +3,7 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...code and art. I am on path to be a UI/UX engineer. 
 <br/>
 
-<div style="padding-left:25px !important">
-  <img src="https://komarev.com/ghpvc/?username=ThongKun" />
-</div>
+#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=ThongKun" />
 <a>
   <img align="left" src="https://github-readme-stats.thonglevan131.vercel.app/api?username=ThongKun&count_private=true&show_icons=true&hide_border=true&hide_rank=true" />
 </a>
