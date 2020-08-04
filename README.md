@@ -2,10 +2,11 @@
 
 ### ...code and art. I am on path to be a UI/UX engineer. 
 <br/><br/><br/>
-<section>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThongKun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThongKun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</section>
+
 
 <br/><br/><br/>
 
