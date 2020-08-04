@@ -4,11 +4,12 @@
 <br/>
 
 
+
 <a>
   <img align="left" src="https://github-readme-stats.thonglevan131.vercel.app/api?username=ThongKun&count_private=true&show_icons=true" />
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.thonglevan131.vercel.app/api/top-langs/?username=ThongKun&layout=compact" />
+  <img src="https://github-readme-stats.thonglevan131.vercel.app/api/top-langs/?username=ThongKun&layout=compact" />
 </a>
 <br/>
 <br/>
