@@ -6,10 +6,10 @@
 
 
 <a>
-  <img align="left" src="https://github-readme-stats.thonglevan131.vercel.app/api?username=ThongKun&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.thonglevan131.vercel.app/api?username=ThongKun&count_private=true&show_icons=true&hide_border=true&hide=["contribs"]" />
 </a>
 <a>
-  <img src="https://github-readme-stats.thonglevan131.vercel.app/api/top-langs/?username=ThongKun&layout=compact" />
+  <img src="https://github-readme-stats.thonglevan131.vercel.app/api/top-langs/?username=ThongKun&layout=compact&hide_border=true&hide=["contribs"]" />
 </a>
 <br/>
 <br/>
