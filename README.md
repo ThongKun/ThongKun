@@ -1,6 +1,6 @@
-## Hi predestinied guest 🙏, I'm 🌌Van Thong🌌 in the current life.
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi predestinied guest 🙏, I'm 🌌Van Thong🌌 in the current life.
 
-### ...code and art. I am on path to be a UI/UX engineer. 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...code and art. I am on path to be a UI/UX engineer. 
 <br/>
 
 ![ThongKun's github visitor](https://komarev.com/ghpvc/?username=ThongKun)
@@ -10,6 +10,7 @@
 </a>
 <a>
   <img src="https://github-readme-stats.thonglevan131.vercel.app/api/top-langs/?username=ThongKun&layout=compact&hide_border=true&hide=["contribs"]" />
+  <img src="https://komarev.com/ghpvc/?username=ThongKun"/>
 </a>
 <br/>
 <br/>
