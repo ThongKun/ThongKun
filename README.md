@@ -3,9 +3,12 @@
 ### ...code and art. I am on path to be a UI/UX engineer. 
 <br/><br/><br/>
 
-<img src="https://github.com/ThongKun/ThongKun/blob/master/Magic_Flute.jpg" height=300 />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThongKun)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/><br/>
+
+
+
 
 ---
 - ☀&nbsp;&nbsp;My equipment currently is <b>React.js</b>. In next 3 months, there will be <b>GraphQL</b>, <b>React Native</b> and <b>Deno</b>.
