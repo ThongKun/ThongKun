@@ -3,10 +3,14 @@
 ### ...code and art. I am on path to be a UI/UX engineer. 
 <br/>
 
-![Anurag's github stats](https://github-readme-stats.thonglevan131.vercel.app/api?username=ThongKun&count_private=true&show_icons=true)
-<br/>
-![Top Langs](https://github-readme-stats.thonglevan131.vercel.app/api/top-langs/?username=ThongKun&layout=compact)
 
+<a>
+  <img align="left" src="https://github-readme-stats.thonglevan131.vercel.app/api?username=ThongKun&count_private=true&show_icons=true" />
+</a>
+<a>
+  <img align="left" src="https://github-readme-stats.thonglevan131.vercel.app/api/top-langs/?username=ThongKun&layout=compact" />
+</a>
+<br/>
 <br/>
 
 
