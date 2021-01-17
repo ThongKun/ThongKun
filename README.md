@@ -1,6 +1,6 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi predestinied guest 🙏, I'm 🌌Van Thong🌌 in the current life.
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...code and art. I am on path to be a UI/UX engineer.  <img src="https://komarev.com/ghpvc/?username=ThongKun" />
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...code and art. I am on path to be a UI/UX engineer. 
 <br/>
 <br/>
 <a>
