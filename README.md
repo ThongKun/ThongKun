@@ -6,9 +6,7 @@
 <a>
   <img align="left" src="https://github-readme-stats.thonglevan131.vercel.app/api?username=ThongKun&count_private=true&show_icons=true&hide_border=true&hide_rank=true" />
 </a>
-<a>
-  <img src="https://github-readme-stats.thonglevan131.vercel.app/api/top-langs/?username=ThongKun&layout=compact&hide_border=true&hide=["contribs"]" />
-</a>
+
 <br/>
 <br/>
 
