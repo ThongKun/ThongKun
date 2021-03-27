@@ -1,6 +1,6 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi predestinied guest 🙏, I'm 🌌Van Thong🌌 in the current life.
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...code and art. I am on path to be a UI/UX engineer. 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...code and art. I am on path to be a UI/UX engineer. At the moment, I'm just a frontend engineer.
 <br/>
 <br/>
 <a>
